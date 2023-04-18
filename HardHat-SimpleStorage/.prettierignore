@@ -1,0 +1,10 @@
+nodemodules
+artifacts
+cache 
+coverage
+.env
+.*
+Readme.md
+coverage.json
+package.json
+img
